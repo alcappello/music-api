@@ -4,6 +4,7 @@
   "description": "A simple api mashup for music artists",
   "author": "Alessandro Cappello",
   "license": "MIT",
+  "repository": "https://github.com/alcappello/music-api",
   "scripts": {
     "build": "tsc --project src/",
     "start": "run-s build start:server",
